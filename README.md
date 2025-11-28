@@ -15,7 +15,7 @@ A comunicação entre o ESP32 e o aplicativo ocorre através de **WebSocket**, p
 
 ### 🦾 Braço Robótico e ESP32
 
-![Braço robótico](./braco.jpg)
+![Braço robótico](./braco-robo.jpg)
 
 ---
 
