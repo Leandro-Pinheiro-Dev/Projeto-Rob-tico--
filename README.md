@@ -9,15 +9,20 @@ A comunicação entre o ESP32 e o aplicativo ocorre através de **WebSocket**, p
 
 ## 📸 Demonstração
 
-### 📱 Controle via aplicativo
+<p align="center">
+  <img src="./web-mobile.jpg" alt="Controle mobile" width="380">
+  <br>
+  <strong>📱 Controle via Aplicativo</strong>
+</p>
 
-![Controle mobile](./web-mobile.jpg)
+<br>
 
-### 🦾 Braço Robótico e ESP32
+<p align="center">
+  <img src="./Braco-robo.jpg" alt="Braço robótico" width="380">
+  <br>
+  <strong>🦾 Braço Robótico e ESP32</strong>
+</p>
 
-![Braço robótico](./braco-robo.jpg)
-
----
 
 ## 🚀 Funcionalidades
 
@@ -54,8 +59,12 @@ A comunicação entre o ESP32 e o aplicativo ocorre através de **WebSocket**, p
 
 ## 📚 Bibliotecas Utilizadas
 
+* **ESP32**
+* **ESP32SERVO**
+* **ESP32 board URL:** https://dl.espressif.com/dl/package_esp32_index.json
 * **AsyncTCP**
 * **ESPAsyncWebServer**
+
 
 ---
 
