@@ -17,10 +17,10 @@ struct ServoPins
 };
 std::vector<ServoPins> servoPins = 
 {
-  { Servo(), 27 , "Base", 90},
-  { Servo(), 26 , "Shoulder", 90},
-  { Servo(), 25 , "Elbow", 90},
-  { Servo(), 33 , "Gripper", 90},
+    { Servo(), 27 , "Base", 90},        // Base
+    { Servo(), 26 , "Ombro", 90},       // Shoulder
+    { Servo(), 25 , "Cotovelo", 90},    // Elbow
+    { Servo(), 33 , "Garra", 90},       // Gripper
 };
 
 struct RecordedStep
@@ -418,3 +418,4 @@ void loop()
     playRecordedRobotArmSteps();
   }
 }
+
