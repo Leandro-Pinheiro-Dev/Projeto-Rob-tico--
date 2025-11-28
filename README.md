@@ -11,11 +11,11 @@ A comunicação entre o ESP32 e o aplicativo ocorre através de **WebSocket**, p
 
 ### 📱 Controle via aplicativo
 
-![Controle mobile](./imagens/web-mobile.jpg)
+![Controle mobile](./web-mobile.jpg)
 
 ### 🦾 Braço Robótico e ESP32
 
-![Braço robótico](./imagens/braco.jpg)
+![Braço robótico](./braco.jpg)
 
 ---
 
