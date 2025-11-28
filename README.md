@@ -61,7 +61,6 @@ A comunicação entre o ESP32 e o aplicativo ocorre através de **WebSocket**, p
 
 * **ESP32**
 * **ESP32SERVO**
-* **ESP32 board URL:** https://dl.espressif.com/dl/package_esp32_index.json
 * **AsyncTCP**
 * **ESPAsyncWebServer**
 
@@ -78,10 +77,6 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 ---
 
-## 🗂️ Código e Diagramas
-
-📁 Repositório oficial do código:
-*(adicione aqui o link do seu GitHub após publicar)*
 
 ---
 
